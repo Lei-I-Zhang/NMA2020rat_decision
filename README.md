@@ -1,1 +1,1 @@
-# NMA2020rat_desision
+# NMA2020rat_decision
